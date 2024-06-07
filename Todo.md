@@ -1,0 +1,3 @@
+## TODO Tech
+- Docker
+- Kubernetes
